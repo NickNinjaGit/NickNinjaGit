@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Fernandes</h1>
-<h3 align="center">an 16 years old web developer</h3>
+<h3 align="center">an 16 years old software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickninjagit&label=Profile%20views&color=0e75b6&style=flat" alt="nickninjagit" /> </p>
 
